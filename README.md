@@ -1,0 +1,1 @@
+<b>Conclusion:</b> named slots aren't working on Layout, but still working on custom components
